@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 1,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "NES",
+            "colors": [
+                "#000000",
+                "#1C1C1C",
+                "#7C7C7C",
+                "#BCBCBC",
+                "#F8F8F8",
+                "#B83418",
+                "#F87858",
+                "#E45C10",
+                "#AC7C00",
+                "#F8B800",
+                "#00B800",
+                "#B8F818",
+                "#0058F8",
+                "#3CBCFC",
+                "#7A219E",
+                "#D800CC"
+            ],
+            "custom": true
+        }
+    }
+}

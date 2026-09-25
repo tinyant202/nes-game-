@@ -1,0 +1,53 @@
+{
+    "name": "nes game ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "image mapping": "github:bladebaillio/image-mapping#v0.0.1",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.1.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-sound-instructions": "github:riknoll/arcade-sound-instructions#399dee51c712f25b27477f1302e99902072db623",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "Vital Icons Extension": "github:neverstopthecoder/vital-icons-extension#v0.0.3",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "pxt-sight": "github:felixtsu/pxt-sight#v0.2.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#1C1C1C",
+        "#7C7C7C",
+        "#BCBCBC",
+        "#F8F8F8",
+        "#B83418",
+        "#F87858",
+        "#E45C10",
+        "#AC7C00",
+        "#F8B800",
+        "#00B800",
+        "#B8F818",
+        "#0058F8",
+        "#3CBCFC",
+        "#7A219E",
+        "#D800CC"
+    ]
+}
